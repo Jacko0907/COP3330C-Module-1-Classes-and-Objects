@@ -6,7 +6,7 @@ COP 3330C
 This program will print out some details about BJ's Brewhouse and Millers Ale House when ran.
 Inputs provided for Bjs brewhouse are the location, seating capacity, and if that location has a brewery in it.
 While Millers Ale House inputs are the name, specialty drink and happy hour start time.
-When the code is tested the output should accurately display Millennia as the location, 150 seating capacity, and no
+When the code is tested the output should accurately display Millenia as the location, 150 seating capacity, and no
 brewery for Bjs Brewhouse and for Millers Ale house it will display the restaurant name, specialty drink and
 happy hour start time.
  */
@@ -130,5 +130,6 @@ class AleHouse {
         System.out.println("Happy Hour Start Time: " + happyHourStartTime + " PM");
     }
 }
+
 
 
